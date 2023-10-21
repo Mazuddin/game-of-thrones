@@ -16,7 +16,7 @@
 }
 
 .book-list {
-  width: 80%;
+  width: 88%;
   border: 1px solid #1818183a;
   border-radius: 8px;
   padding: 15px;
@@ -63,8 +63,8 @@
 
 .book-details {
   text-align: left;
-  margin-left: 370px;
-  max-width: 550px;
+  margin-left: 300px;
+  max-width: 850px;
   padding: 20px;
   border: 1px solid #797878;
   border-radius: 5px;
