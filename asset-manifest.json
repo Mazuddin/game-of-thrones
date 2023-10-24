@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/game-of-thrones/static/css/main.c65922a8.css",
+    "main.css": "/game-of-thrones/static/css/main.37f6e248.css",
     "main.js": "/game-of-thrones/static/js/main.c561b8d1.js",
     "static/js/787.85bf19a8.chunk.js": "/game-of-thrones/static/js/787.85bf19a8.chunk.js",
     "static/media/house.jpg": "/game-of-thrones/static/media/house.4afbd73625d8d757570f.jpg",
     "static/media/logo.png": "/game-of-thrones/static/media/logo.2e03f98a34f093a9b8ea.png",
     "index.html": "/game-of-thrones/index.html",
-    "main.c65922a8.css.map": "/game-of-thrones/static/css/main.c65922a8.css.map",
+    "main.37f6e248.css.map": "/game-of-thrones/static/css/main.37f6e248.css.map",
     "main.c561b8d1.js.map": "/game-of-thrones/static/js/main.c561b8d1.js.map",
     "787.85bf19a8.chunk.js.map": "/game-of-thrones/static/js/787.85bf19a8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c65922a8.css",
+    "static/css/main.37f6e248.css",
     "static/js/main.c561b8d1.js"
   ]
 }
