@@ -31,3 +31,13 @@ Utilize the search functionality to find specific characters.
 
 **API**
 The application uses an API to fetch data about Game of Thrones characters and other related information. The API used in this project is [https://www.anapioficeandfire.com], which provides detailed data on characters, houses, and books.
+
+
+**Project views**
+
+![Home](https://github.com/Mazuddin/game-of-thrones/assets/130891337/a4f3b5d0-f4ec-4a20-9f5f-9e3b7218384f)
+![Houses](https://github.com/Mazuddin/game-of-thrones/assets/130891337/a288d899-9d1f-4c01-a827-514ce26bcbb9)
+![Search](https://github.com/Mazuddin/game-of-thrones/assets/130891337/00f9d6d1-a47c-4106-835b-879d24a2ec5c)
+![Character-list](https://github.com/Mazuddin/game-of-thrones/assets/130891337/81d9a582-48b2-44f6-8a58-183c0e757326)
+![Books](https://github.com/Mazuddin/game-of-thrones/assets/130891337/9c455354-bcd4-4c9c-9690-2002b0b6d707)
+
