@@ -1,20 +1,20 @@
 **Project Summary**
-This is a React-based web application that provides information about the Game of Thrones series. You can access the deployed version of the app here: 
-__https://mazuddin.github.io/game-of-thrones__
+   This is a React-based web application that provides information about the Game of Thrones series. You can access the deployed version of the app here: 
+**https://mazuddin.github.io/game-of-thrones**
 
 
 **Features**
-I.	Character List: View a list of characters from the Game of Thrones series.
-II.	Character Detail: Get detailed information about a specific character.
-III.Houses: Explore the various houses in the Game of Thrones world.
-IV.	Books: Access information about the books in the Game of Thrones series.
-V.	Search: Search for characters, houses, books and access search results.
+1.	Character List: View a list of characters from the Game of Thrones series.
+2.	Character Detail: Get detailed information about a specific character.
+3.  Houses: Explore the various houses in the Game of Thrones world.
+4.	Books: Access information about the books in the Game of Thrones series.
+5.	Search: Search for characters, houses, books and access search results.
 
 
 **Technology Stack**
-a.	React: Used for building the user interface.
-b.	React Router: Utilized for routing and navigation within the app.
-c.	GitHub Pages: Deployed the application to GitHub Pages for public access.
+1.	React: Used for building the user interface.
+2.	React Router: Utilized for routing and navigation within the app.
+3.	GitHub Pages: Deployed the application to GitHub Pages for public access.
 
 
 **How to Run the App Locally?**
@@ -25,7 +25,7 @@ c.	GitHub Pages: Deployed the application to GitHub Pages for public access.
 
 
 __User Flow__
-Visit the Game of Thrones React App. __https://mazuddin.github.io/game-of-thrones__
+Visit the Game of Thrones React App. **https://mazuddin.github.io/game-of-thrones**
 Click on the features to explore characters, houses, books, and more.
 Utilize the search functionality to find specific characters.
 
